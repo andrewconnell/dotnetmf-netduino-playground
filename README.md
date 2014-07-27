@@ -8,7 +8,7 @@ By default all the instructions and downloads are for the .NET Micro Framework 4
 ## Projects
 - **[Blinky](Blinky)** - Tiny app that blinks the onboard LED. *From Chapter 3 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 - **[PushOnboardButton](PushOnboardButton)** - Turns the onboard LED on when the onboard button is pressed. *From Chapter 3 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
-- **[SimpleBroadboardButtonLed](SimpleBroadboardButtonLed)** - First time using breadboard... turns the LED on when the button is pressed. *From Chapter 5 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
+- **[SimpleBreadboardButtonLed](SimpleBreadboardButtonLed)** - First time using breadboard... turns the LED on when the button is pressed. *From Chapter 5 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 
 ### References
 Drawings (`*.fzz`) of physical projects done using [Fritzing](http://fritzing.org/download/).

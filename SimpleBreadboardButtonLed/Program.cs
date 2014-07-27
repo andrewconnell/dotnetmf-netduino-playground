@@ -7,7 +7,7 @@ using Microsoft.SPOT.Hardware;
 using SecretLabs.NETMF.Hardware;
 using SecretLabs.NETMF.Hardware.Netduino;
 
-namespace SimpleBroadboardButtonLed {
+namespace SimpleBreadboardButtonLed {
   public class Program {
     public static void Main() {
       // GPIO that goes to 330ohm resistor connected to long arm of the LED
