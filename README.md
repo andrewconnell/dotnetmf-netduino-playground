@@ -9,7 +9,7 @@ By default all the instructions and downloads are for the .NET Micro Framework 4
 - **[Blinky](Blinky)** - Tiny app that blinks the onboard LED. *From Chapter 3 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 - **[PushOnboardButton](PushOnboardButton)** - Turns the onboard LED on when the onboard button is pressed. *From Chapter 3 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 - **[SimpleBreadboardButtonLed](SimpleBreadboardButtonLed)** - First time using breadboard... turns the LED on when the button is pressed. *From Chapter 5 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
-- **[SimpleAnalogPontentiometer](SimpleAnalogPontentiometer)** - Getting the values from analog sensors. *From Chapter 5 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
+- **[SimpleAnalogPotentiometer](SimpleAnalogPotentiometer)** - Getting the values from analog sensors. *From Chapter 5 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 - **[SimpleRgbLed](SimpleRgbLed)** - Writing to the RGB LED (using the MSFT & SecretLabs libraries). *From Chapter 6 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 - **[SimplePiezoSpeaker](SimplePiezoSpeaker)** - Playing sounds on a piezo speaker. *From Chapter 7 of [Getting Started with Netduino](http://www.amazon.com/Getting-Started-Netduino-Chris-Walker-ebook/dp/B007AU3D2U)*
 
