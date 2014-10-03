@@ -1,5 +1,5 @@
 Updating the Netdunio Plus 2 to .NET Micro Framework v4.3.1.0 (VS2013)
-============================
+======================================================================
 
 First had to install special versions of the .NET MF SDK & Netduino SDK for v4.3.1 + QFE1 for VS2013... downloads and instructions here: [http://forums.netduino.com/index.php?/topic/10201-experimental-visual-studio-2013-support/](http://forums.netduino.com/index.php?/topic/10201-experimental-visual-studio-2013-support/)
 
